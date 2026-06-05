@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Соединение Венеры и Юпитера",
+    "start_at": "2026-06-09T22:48:00+03:00",
+    "category": "planet_conjunction",
+    "description": "Яркое соединение планет. Видимость зависит от горизонта, погоды и местоположения.",
+    "source_url": "https://in-the-sky.org/newscal.php",
+    "livestream_url": ""
+  },
+  {
+    "title": "Daytime Arietid meteor shower 2026",
+    "start_at": "2026-06-10T13:00:00+03:00",
+    "category": "meteor_shower",
+    "description": "Пик дневного метеорного потока Ариетиды. Реальная видимость зависит от условий наблюдения.",
+    "source_url": "https://in-the-sky.org/newscal.php",
+    "livestream_url": ""
+  },
+  {
+    "title": "Полное солнечное затмение 2026",
+    "start_at": "2026-08-12T21:00:00+03:00",
+    "category": "eclipse",
+    "description": "Крупное событие 2026 года. Для реальной рассылки уточни время под нужный регион и добавь ссылку на трансляцию.",
+    "source_url": "https://eclipse.gsfc.nasa.gov/",
+    "livestream_url": "https://www.nasa.gov/nasatv/"
+  }
+]
